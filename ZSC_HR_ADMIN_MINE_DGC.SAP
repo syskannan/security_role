@@ -1,0 +1,320 @@
+DATE                                              20180201                                          125321
+RELEASE                                           702
+LOADED_AGRS                                       ZSC_HR_ADMIN_MINE_DGC
+AGR_DEFINE                                        010ZSC_HR_ADMIN_MINE_DGC                                       KPONNUSWAMY 20180108083810000000000000000KPONNUSWAMY 20180119094726000000000000000
+AGR_TCODES                                        010ZSC_HR_ADMIN_MINE_DGC         TRCAT2                                             X 00000
+AGR_TCODES                                        010ZSC_HR_ADMIN_MINE_DGC         TRCAT6                                             X 00000
+AGR_TCODES                                        010ZSC_HR_ADMIN_MINE_DGC         TRCATS_APPR_LITE                                   X 00000
+AGR_TCODES                                        010ZSC_HR_ADMIN_MINE_DGC         TRCATS_DA                                          X 00000
+AGR_TCODES                                        010ZSC_HR_ADMIN_MINE_DGC         TRMB21                                             X 00000
+AGR_TCODES                                        010ZSC_HR_ADMIN_MINE_DGC         TRMB22                                             X 00000
+AGR_TCODES                                        010ZSC_HR_ADMIN_MINE_DGC         TRMB23                                             X 00000
+AGR_TCODES                                        010ZSC_HR_ADMIN_MINE_DGC         TRPO13                                             X 00000
+AGR_TCODES                                        010ZSC_HR_ADMIN_MINE_DGC         TRPP01                                             X 00000
+AGR_TCODES                                        010ZSC_HR_ADMIN_MINE_DGC         TRPPOME                                            X 00000
+AGR_TCODES                                        010ZSC_HR_ADMIN_MINE_DGC         TRPT03                                             X 00000
+AGR_TCODES                                        010ZSC_HR_ADMIN_MINE_DGC         TRPT_BAL00                                         X 00000
+AGR_TCODES                                        010ZSC_HR_ADMIN_MINE_DGC         TRPT_QTA10                                         X 00000
+AGR_TCODES                                        010ZSC_HR_ADMIN_MINE_DGC         TRSA38                                             X 00000
+AGR_TCODES                                        010ZSC_HR_ADMIN_MINE_DGC         TRSTART_REPORT                                     X 00000
+AGR_TCODES                                        010ZSC_HR_ADMIN_MINE_DGC         TRS_PH0_48000510                                   X 00000
+AGR_TCODES                                        010ZSC_HR_ADMIN_MINE_DGC         TRZHR_MAN                                          X 00000
+AGR_TCODES                                        010ZSC_HR_ADMIN_MINE_DGC         TRZHR_TS_HOURS                                     X 00000
+AGR_1250                                          010ZSC_HR_ADMIN_MINE_DGC         000001M_MRES_BWAT-E171071200    M  O000113
+AGR_1250                                          010ZSC_HR_ADMIN_MINE_DGC         000002M_MRES_WWAT-E171071200    S  O000117
+AGR_1250                                          010ZSC_HR_ADMIN_MINE_DGC         000003PLOG      T-E171071200    M  O000023
+AGR_1250                                          010ZSC_HR_ADMIN_MINE_DGC         000004PLOG      T-E171071201    SX O000030
+AGR_1250                                          010ZSC_HR_ADMIN_MINE_DGC         000005PLOG      T-E171071202    SX O000037
+AGR_1250                                          010ZSC_HR_ADMIN_MINE_DGC         000006PLOG      T-E171071203    S  O000016
+AGR_1250                                          010ZSC_HR_ADMIN_MINE_DGC         000007P_ORGIN   T-E171071200    M  O000077
+AGR_1250                                          010ZSC_HR_ADMIN_MINE_DGC         000008P_PCLX    T-E171071200    S  O000086
+AGR_1250                                          010ZSC_HR_ADMIN_MINE_DGC         000009P_PCLX    T-E171071201    S  O000089
+AGR_1250                                          010ZSC_HR_ADMIN_MINE_DGC         000010P_PERNR   T-E171071200    M  O000098
+AGR_1250                                          010ZSC_HR_ADMIN_MINE_DGC         000011P_TCODE   T-E171071200    S  O000104
+AGR_1250                                          010ZSC_HR_ADMIN_MINE_DGC         000012S_PROGRAM T-E171071200    M  O000011
+AGR_1250                                          010ZSC_HR_ADMIN_MINE_DGC         000013S_TCODE   T-E171071200    S  O000004
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000001M_MRES_BWAT-E171071200    ACTVT     01                                                                              M  O000114
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000002M_MRES_BWAT-E171071200    BWART     *                                                                               G  O000115
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000003M_MRES_WWAT-E171071200    ACTVT     01                                                                              S  O000118
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000004M_MRES_WWAT-E171071200    WERKS     $WERKS                                                                          S  O000119
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000005PLOG      T-E171071200    INFOTYP   1000                                    1003                                    M  O000024
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000006PLOG      T-E171071200    INFOTYP   1005                                    1011                                    M  O000024
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000007PLOG      T-E171071200    INFOTYP   1013                                    1019                                    M  O000024
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000008PLOG      T-E171071200    INFOTYP   1033                                                                            M  O000024
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000009PLOG      T-E171071200    INFOTYP   1055                                                                            M  O000024
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000010PLOG      T-E171071200    ISTAT     *                                                                               S  O000025
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000011PLOG      T-E171071200    OTYPE     A                                                                               M  O000026
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000012PLOG      T-E171071200    OTYPE     C                                                                               M  O000026
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000013PLOG      T-E171071200    OTYPE     K                                                                               M  O000026
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000014PLOG      T-E171071200    OTYPE     O                                                                               M  O000026
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000015PLOG      T-E171071200    OTYPE     P                                                                               M  O000026
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000016PLOG      T-E171071200    OTYPE     Q                                                                               M  O000026
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000017PLOG      T-E171071200    OTYPE     QK                                                                              M  O000026
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000018PLOG      T-E171071200    OTYPE     S                                                                               M  O000026
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000019PLOG      T-E171071200    PLVAR     01                                                                              M  O000027
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000020PLOG      T-E171071200    PPFCODE   *                                                                               S  O000028
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000021PLOG      T-E171071200    SUBTYP    *                                                                               S  O000029
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000022PLOG      T-E171071201    INFOTYP   *                                                                               SX O000031
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000023PLOG      T-E171071201    ISTAT     *                                                                               SX O000032
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000024PLOG      T-E171071201    OTYPE                                                                                     SX O000033
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000025PLOG      T-E171071201    PLVAR     $PLVAR                                                                          SX O000034
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000026PLOG      T-E171071201    PPFCODE   *                                                                               SX O000035
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000027PLOG      T-E171071201    SUBTYP    *                                                                               SX O000036
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000028PLOG      T-E171071202    INFOTYP                                                                                   SX O000038
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000029PLOG      T-E171071202    ISTAT                                                                                     SX O000039
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000030PLOG      T-E171071202    OTYPE                                                                                     SX O000040
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000031PLOG      T-E171071202    PLVAR     $PLVAR                                                                          SX O000041
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000032PLOG      T-E171071202    PPFCODE                                                                                   SX O000042
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000033PLOG      T-E171071202    SUBTYP                                                                                    SX O000043
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000034P_ORGIN   T-E171071200    AUTHC     E                                                                               S  O000078
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000035P_ORGIN   T-E171071200    AUTHC     R                                                                               S  O000078
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000036P_ORGIN   T-E171071200    INFTY     0000                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000037P_ORGIN   T-E171071200    INFTY     0006                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000038P_ORGIN   T-E171071200    INFTY     0001                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000039P_ORGIN   T-E171071200    INFTY     0002                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000040P_ORGIN   T-E171071200    INFTY     2001                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000041P_ORGIN   T-E171071200    INFTY     2010                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000042P_ORGIN   T-E171071200    PERSA     10CN                                                                            G  O000080
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000043P_ORGIN   T-E171071200    PERSG     1                                                                               G  O000081
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000044P_ORGIN   T-E171071200    PERSK     A1                                                                              G  O000082
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000045P_ORGIN   T-E171071200    SUBTY     ' '                                                                             S  O000083
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000046P_ORGIN   T-E171071200    VDSK1     *                                                                               G  O000084
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000047P_PERNR   T-E171071200    AUTHC     M                                                                               M  O000099
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000048M_MRES_BWAT-E171071200    ACTVT     02                                                                              M  O000114
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000049M_MRES_BWAT-E171071200    ACTVT     03                                                                              M  O000114
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000070P_PCLX    T-E171071200    AUTHC     R                                                                               S  O000087
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000071P_PCLX    T-E171071200    RELID     B2                                                                              S  O000088
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000072P_PCLX    T-E171071200    RELID     PC                                                                              S  O000088
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000073P_PCLX    T-E171071201    AUTHC     R                                                                               S  O000090
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000074P_PCLX    T-E171071201    AUTHC     S                                                                               S  O000090
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000075P_PCLX    T-E171071201    AUTHC     U                                                                               S  O000090
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000076P_PCLX    T-E171071201    RELID     PC                                                                              S  O000091
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000077P_PERNR   T-E171071200    AUTHC     E                                                                               M  O000099
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000078P_PERNR   T-E171071200    AUTHC     R                                                                               M  O000099
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000079P_PERNR   T-E171071200    INFTY     0000                                    0002                                    S  O000100
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000080P_PERNR   T-E171071200    INFTY     0007                                                                            S  O000100
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000081P_PERNR   T-E171071200    INFTY     0315                                                                            S  O000100
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000082P_PERNR   T-E171071200    INFTY     0316                                                                            S  O000100
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000083P_PERNR   T-E171071200    INFTY     2001                                    2003                                    S  O000100
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000084P_PERNR   T-E171071200    INFTY     2010                                                                            S  O000100
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000085P_PERNR   T-E171071200    PSIGN     E                                                                               M  O000101
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000086P_PERNR   T-E171071200    SUBTY     *                                                                               G  O000102
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000087P_TCODE   T-E171071200    TCD       PO13                                                                            S  O000105
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000088P_TCODE   T-E171071200    TCD       PT03                                                                            S  O000105
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000090S_PROGRAM T-E171071200    P_ACTION  SUBMIT                                                                          M  O000012
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000091S_PROGRAM T-E171071200    P_ACTION  VARIANT                                                                         M  O000012
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000092S_PROGRAM T-E171071200    P_GROUP   *                                                                               G  O000013
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000093S_TCODE   T-E171071200    TCD       CAT2                                                                            S  O000005
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000094S_TCODE   T-E171071200    TCD       CAT6                                                                            S  O000005
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000095S_TCODE   T-E171071200    TCD       CATS_APPR_LITE                                                                  S  O000005
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000096S_TCODE   T-E171071200    TCD       CATS_DA                                                                         S  O000005
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000097S_TCODE   T-E171071200    TCD       MB21                                                                            S  O000005
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000098S_TCODE   T-E171071200    TCD       PO13                                                                            S  O000005
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000099S_TCODE   T-E171071200    TCD       PP01                                                                            S  O000005
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000100S_TCODE   T-E171071200    TCD       PPOME                                                                           S  O000005
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000101S_TCODE   T-E171071200    TCD       PT03                                                                            S  O000005
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000102S_TCODE   T-E171071200    TCD       PT_BAL00                                                                        S  O000005
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000103S_TCODE   T-E171071200    TCD       PT_QTA10                                                                        S  O000005
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000104S_TCODE   T-E171071200    TCD       SA38                                                                            S  O000005
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000105S_TCODE   T-E171071200    TCD       START_REPORT                                                                    S  O000005
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000106S_TCODE   T-E171071200    TCD       S_PH0_48000510                                                                  S  O000005
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000107S_TCODE   T-E171071200    TCD       ZHR_MAN                                                                         S  O000005
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000108S_TCODE   T-E171071200    TCD       ZHR_TS_HOURS                                                                    S  O000005
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000109P_ORGIN   T-E171071200    INFTY     0169                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000110P_ORGIN   T-E171071200    INFTY     0168                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000111P_ORGIN   T-E171071200    INFTY     0167                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000112P_ORGIN   T-E171071200    INFTY     0128                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000113P_ORGIN   T-E171071200    INFTY     0106                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000114P_ORGIN   T-E171071200    INFTY     0105                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000115P_ORGIN   T-E171071200    INFTY     0102                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000116P_ORGIN   T-E171071200    INFTY     0078                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000117P_ORGIN   T-E171071200    INFTY     0077                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000118P_ORGIN   T-E171071200    INFTY     0068                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000119P_ORGIN   T-E171071200    INFTY     0067                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000120P_ORGIN   T-E171071200    INFTY     0066                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000121P_ORGIN   T-E171071200    INFTY     0057                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000122P_ORGIN   T-E171071200    INFTY     0050                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000123P_ORGIN   T-E171071200    INFTY     0045                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000124P_ORGIN   T-E171071200    INFTY     0041                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000125P_ORGIN   T-E171071200    INFTY     0040                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000126P_ORGIN   T-E171071200    INFTY     0035                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000127P_ORGIN   T-E171071200    INFTY     0032                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000128P_ORGIN   T-E171071200    INFTY     0027                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000129P_ORGIN   T-E171071200    INFTY     0025                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000130P_ORGIN   T-E171071200    INFTY     0024                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000131P_ORGIN   T-E171071200    INFTY     0023                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000132P_ORGIN   T-E171071200    INFTY     0022                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000133P_ORGIN   T-E171071200    INFTY     2013                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000134P_ORGIN   T-E171071200    INFTY     2012                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000135P_ORGIN   T-E171071200    INFTY     2007                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000136P_ORGIN   T-E171071200    INFTY     2006                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000137P_ORGIN   T-E171071200    INFTY     2003                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000138P_ORGIN   T-E171071200    INFTY     2002                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000139P_ORGIN   T-E171071200    INFTY     0763                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000140P_ORGIN   T-E171071200    INFTY     0762                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000141P_ORGIN   T-E171071200    INFTY     0761                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000142P_ORGIN   T-E171071200    INFTY     0464                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000143P_ORGIN   T-E171071200    INFTY     0463                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000144P_ORGIN   T-E171071200    INFTY     0462                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000145P_ORGIN   T-E171071200    INFTY     0461                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000146P_ORGIN   T-E171071200    INFTY     0416                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000147P_ORGIN   T-E171071200    INFTY     0382                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000148P_ORGIN   T-E171071200    INFTY     0379                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000149P_ORGIN   T-E171071200    INFTY     0378                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000150P_ORGIN   T-E171071200    INFTY     0377                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000151P_ORGIN   T-E171071200    INFTY     0376                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000152P_ORGIN   T-E171071200    INFTY     0302                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000153P_ORGIN   T-E171071200    INFTY     0185                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000154P_ORGIN   T-E171071200    INFTY     0172                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000155P_ORGIN   T-E171071200    INFTY     0171                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000156P_ORGIN   T-E171071200    INFTY     0170                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000157P_ORGIN   T-E171071200    INFTY     0021                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000158P_ORGIN   T-E171071200    INFTY     0019                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000159P_ORGIN   T-E171071200    INFTY     0017                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000160P_ORGIN   T-E171071200    INFTY     0016                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000161P_ORGIN   T-E171071200    INFTY     0015                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000162P_ORGIN   T-E171071200    INFTY     0014                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000163P_ORGIN   T-E171071200    INFTY     0009                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000164P_ORGIN   T-E171071200    INFTY     0008                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000165P_ORGIN   T-E171071200    INFTY     0007                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000166P_ORGIN   T-E171071200    INFTY     0003                                                                            M  O000079
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000167P_ORGIN   T-E171071200    PERSA     90AA                                                                            G  O000080
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000168P_ORGIN   T-E171071200    PERSA     80IT                                                                            G  O000080
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000169P_ORGIN   T-E171071200    PERSA     75FA                                                                            G  O000080
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000170P_ORGIN   T-E171071200    PERSA     70S1                                                                            G  O000080
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000171P_ORGIN   T-E171071200    PERSA     65HS                                                                            G  O000080
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000172P_ORGIN   T-E171071200    PERSA     60EN                                                                            G  O000080
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000173P_ORGIN   T-E171071200    PERSA     50CA                                                                            G  O000080
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000174P_ORGIN   T-E171071200    PERSA     50AP                                                                            G  O000080
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000175P_ORGIN   T-E171071200    PERSA     45MG                                                                            G  O000080
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000176P_ORGIN   T-E171071200    PERSA     43MT                                                                            G  O000080
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000177P_ORGIN   T-E171071200    PERSA     40MO                                                                            G  O000080
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000178P_ORGIN   T-E171071200    PERSA     30PP                                                                            G  O000080
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000179P_ORGIN   T-E171071200    PERSA     29EM                                                                            G  O000080
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000180P_ORGIN   T-E171071200    PERSA     28IM                                                                            G  O000080
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000181P_ORGIN   T-E171071200    PERSA     27PR                                                                            G  O000080
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000182P_ORGIN   T-E171071200    PERSA     26MM                                                                            G  O000080
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000183P_ORGIN   T-E171071200    PERSA     26MA                                                                            G  O000080
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000184P_ORGIN   T-E171071200    PERSA     25PM                                                                            G  O000080
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000185P_ORGIN   T-E171071200    PERSA     2000                                                                            G  O000080
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000186P_ORGIN   T-E171071200    PERSA     1MGT                                                                            G  O000080
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000187P_ORGIN   T-E171071200    PERSA     19CP                                                                            G  O000080
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000188P_ORGIN   T-E171071200    PERSA     15CI                                                                            G  O000080
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000189P_ORGIN   T-E171071200    PERSK     S1                                                                              G  O000082
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000190P_ORGIN   T-E171071200    PERSK     R2                                                                              G  O000082
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000191P_ORGIN   T-E171071200    PERSK     R1                                                                              G  O000082
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000192P_ORGIN   T-E171071200    PERSK     E4                                                                              G  O000082
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000193P_ORGIN   T-E171071200    PERSK     E3                                                                              G  O000082
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000194P_ORGIN   T-E171071200    PERSK     E2                                                                              G  O000082
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000195P_ORGIN   T-E171071200    PERSK     D5                                                                              G  O000082
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000196P_ORGIN   T-E171071200    PERSK     D4                                                                              G  O000082
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000197P_ORGIN   T-E171071200    PERSK     D3                                                                              G  O000082
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000198P_ORGIN   T-E171071200    PERSK     D2                                                                              G  O000082
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000199P_ORGIN   T-E171071200    PERSK     D1                                                                              G  O000082
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000200P_ORGIN   T-E171071200    PERSK     C2                                                                              G  O000082
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000201P_ORGIN   T-E171071200    PERSK     C1                                                                              G  O000082
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000202P_ORGIN   T-E171071200    PERSK     A4                                                                              G  O000082
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000203P_ORGIN   T-E171071200    PERSK     A3                                                                              G  O000082
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000204P_ORGIN   T-E171071200    PERSK     A2                                                                              G  O000082
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000205P_ORGIN   T-E171071200    PERSG     8                                                                               G  O000081
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000206P_ORGIN   T-E171071200    PERSG     7                                                                               G  O000081
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000207P_ORGIN   T-E171071200    PERSG     2                                                                               G  O000081
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000208P_ORGIN   T-E171071200    PERSA     99EX                                                                            G  O000080
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000209P_ORGIN   T-E171071200    PERSA     95TD                                                                            G  O000080
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000210P_ORGIN   T-E171071200    PERSA     95HR                                                                            G  O000080
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000215S_TCODE   T-E171071200    TCD       MB23                                                                            S  O000005
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000216S_TCODE   T-E171071200    TCD       MB22                                                                            S  O000005
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000240M_MRES_WWAT-E171071200    ACTVT     02                                                                              S  O000118
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000242M_MRES_WWAT-E171071200    ACTVT     03                                                                              S  O000118
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000243PLOG      T-E171071203    INFOTYP   *                                                                               S  O000017
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000244PLOG      T-E171071203    ISTAT     *                                                                               S  O000018
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000245PLOG      T-E171071203    OTYPE     P                                                                               S  O000019
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000246PLOG      T-E171071203    SUBTYP    *                                                                               S  O000022
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000247PLOG      T-E171071203    PPFCODE   *                                                                               S  O000021
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000248PLOG      T-E171071203    PLVAR     $PLVAR                                                                          S  O000020
+AGR_1251                                          010ZSC_HR_ADMIN_MINE_DGC         000249PLOG      T-E171071203    OTYPE     S                                                                               S  O000019
+AGR_1252                                          010ZSC_HR_ADMIN_MINE_DGC         000001$PLVAR                                  01
+AGR_1252                                          010ZSC_HR_ADMIN_MINE_DGC         000002$PLVAR                                  02
+AGR_1252                                          010ZSC_HR_ADMIN_MINE_DGC         000003$WERKS                                  1000
+AGR_TEXTS                                         010ZSC_HR_ADMIN_MINE_DGC         E00000DGC HR Administrator Mine
+AGR_FLAGS                                         010ZSC_HR_ADMIN_MINE_DGC         COLL_AGR  KPONNUSWAMY 20180108083810KPONNUSWAMY 20180108083810
+AGR_FLAGS                                         010ZSC_HR_ADMIN_MINE_DGC         DEVCLASS  KPONNUSWAMY 20180108083810KPONNUSWAMY 20180108083810
+AGR_FLAGS                                         010ZSC_HR_ADMIN_MINE_DGC         FORCE_MIX KPONNUSWAMY 20180108093017KPONNUSWAMY 20180119094722
+AGR_FLAGS                                         010ZSC_HR_ADMIN_MINE_DGC         FORCE_YEL KPONNUSWAMY 20180119095108KPONNUSWAMY 20180119095108
+AGR_FLAGS                                         010ZSC_HR_ADMIN_MINE_DGC         MASTER_LANKPONNUSWAMY 20180108083810KPONNUSWAMY 20180108083810E
+AGR_FLAGS                                         010ZSC_HR_ADMIN_MINE_DGC         RESP_USER KPONNUSWAMY 20180108083810KPONNUSWAMY 20180108083810
+AGR_HIER                                          010ZSC_HR_ADMIN_MINE_DGC         0000000300000001X00000040                                                  01                                X
+AGR_HIER                                          010ZSC_HR_ADMIN_MINE_DGC         0000000400000001X00000030                                                  01                                X
+AGR_HIER                                          010ZSC_HR_ADMIN_MINE_DGC         0000000500000001X00000020                                                  01                                X
+AGR_HIER                                          010ZSC_HR_ADMIN_MINE_DGC         0000000600000001X00000050                                                  01                                X
+AGR_HIER                                          010ZSC_HR_ADMIN_MINE_DGC         0000000700000006 00000010TRPT03                                            02                                X                                         0000000000
+AGR_HIER                                          010ZSC_HR_ADMIN_MINE_DGC         0000000800000006 00000020TRCAT2                                            02                                X                                         0000000000
+AGR_HIER                                          010ZSC_HR_ADMIN_MINE_DGC         0000000900000006 00000030TRCAT6                                            02                                X                                         0000000000
+AGR_HIER                                          010ZSC_HR_ADMIN_MINE_DGC         0000001000000006 00000040TRPT_BAL00                                        02                                X                                         0000000000
+AGR_HIER                                          010ZSC_HR_ADMIN_MINE_DGC         0000001100000006 00000050TRCATS_APPR_LITE                                  02                                X                                         0000000000
+AGR_HIER                                          010ZSC_HR_ADMIN_MINE_DGC         0000001200000006 00000060TRPT_QTA10                                        02                                X                                         0000000000
+AGR_HIER                                          010ZSC_HR_ADMIN_MINE_DGC         0000001300000006 00000070TRCATS_DA                                         02                                X                                         0000000000
+AGR_HIER                                          010ZSC_HR_ADMIN_MINE_DGC         0000001400000003 00000010TRPPOME                                           02                                X                                         0000000000
+AGR_HIER                                          010ZSC_HR_ADMIN_MINE_DGC         0000001500000003 00000020TRPO13                                            02                                X                                         0000000000
+AGR_HIER                                          010ZSC_HR_ADMIN_MINE_DGC         0000001600000003 00000030TRPP01                                            02                                X                                         0000000000
+AGR_HIER                                          010ZSC_HR_ADMIN_MINE_DGC         0000001700000001X00000010                                                  01                                X
+AGR_HIER                                          010ZSC_HR_ADMIN_MINE_DGC         0000001800000017 00000030TRMB21                                            02                                X                                         0000000000
+AGR_HIER                                          010ZSC_HR_ADMIN_MINE_DGC         0000001900000005 00000010TRZHR_MAN                                         02                                X                                         0000000000
+AGR_HIER                                          010ZSC_HR_ADMIN_MINE_DGC         0000002000000005 00000020TRS_PH0_48000510                                  02                                X                                         0000000000
+AGR_HIER                                          010ZSC_HR_ADMIN_MINE_DGC         0000002100000005 00000030TRZHR_TS_HOURS                                    02                                X                                         0000000000
+AGR_HIER                                          010ZSC_HR_ADMIN_MINE_DGC         0000002200000005 00000040TRSA38                                            02                                X                                         0000000000
+AGR_HIER                                          010ZSC_HR_ADMIN_MINE_DGC         0000002300000005 00000050TRSTART_REPORT                                    02                                X                                         0000000000
+AGR_HIER                                          010ZSC_HR_ADMIN_MINE_DGC         0000002400000017 00000010TRMB22                                            02                                X                                         0000000000
+AGR_HIER                                          010ZSC_HR_ADMIN_MINE_DGC         0000002500000017 00000020TRMB23                                            02                                X                                         0000000000
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         D00000007Arbeitszeitplan anzeigen
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         D00000008Arbeitszeitblatt: Zeiten pflegen
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         D00000009Transfer extern -> Zeitwirtschaft
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         D00000010Kumulierte Zeitauswertungsergebnisse
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         D00000011Arbeitszeiten genehmigen
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         D00000012Abwesenheitskontingentinformationen
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         D00000013Arbeitszeiten anzeigen
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         D00000014Organisation und Besetzung ändern
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         D00000015Planstelle pflegen
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         D00000016Plandaten pflegen (menügeführt)
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         D00000018Reservierung anlegen
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         D00000020Ad-hoc-Query
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         D00000022ABAP/4 Reporting
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         D00000023Starten eines Reports
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         D00000024Reservierung ändern
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         D00000025Reservierung anzeigen
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         E00000003Organization Management
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         E00000004Personnel Management
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         E00000005Reporting
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         E00000006Time Administration
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         E00000007Display Work Schedule
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         E00000008Time Sheet: Maintain Times
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         E00000009Transfer External -> Time Management
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         E00000010Cumulated Time Evaluation Results
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         E00000011Approve Working Times
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         E00000012Absence Quota Information
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         E00000013Display Working Times
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         E00000014Change Organization and Staffing
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         E00000015Maintain Position
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         E00000016Maintain Plan Data (Menu-Guided)
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         E00000017General Management
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         E00000018Create Reservation
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         E00000019SAP HR Data for Manulife
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         E00000020Ad Hoc Query
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         E00000021Planned Working Time vs CATS Time
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         E00000022ABAP Reporting
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         E00000023Starts report
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         E00000024Change Reservation
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         E00000025Display Reservation
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         F00000022Reporting ABAP/4
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         I00000010Risultati quadratura giornata cumul.
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         I00000012Informazioni monte ore assenze
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         I00000022Reporting ABAP/4
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         N00000022ABAP/4 rapportage
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         P00000010Resultados avaliação tempos acumuls.
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         P00000012Informações contingente ausências
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         S00000010Resultados evaluación tiempos acum.
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         S00000012Información contingente absentismos
+AGR_HIERT                                         010ZSC_HR_ADMIN_MINE_DGC         S00000022ABAP/4 Reporting
+AGR_TIME                                          010ZSC_HR_ADMIN_MINE_DGC         MENU      KPONNUSWAMY 20180108091607000000000000000KPONNUSWAMY 20180119094212000000000000000
+AGR_TIME                                          010ZSC_HR_ADMIN_MINE_DGC         PROFILE   KPONNUSWAMY 20180108093017000000000000000KPONNUSWAMY 20180119094722000000000000000
+AGR_LSD                                           010ZSC_HR_ADMIN_MINE_DGC                                       E
